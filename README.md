@@ -1,4 +1,6 @@
-# Dependents testing
+# Dependents testing (ARCHIVED)
+
+Moved to: https://github.com/pkgjs/dependents
 
 Tool to gather all dependents of a package and filter by npm weekly downloads,
 github forks, stars and watchers
